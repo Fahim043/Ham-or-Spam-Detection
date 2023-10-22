@@ -47,12 +47,12 @@ Fig: Bert model results
 The project is organized as follows:
 
 - `data/`: Contains the dataset used for training and testing.
-- `notebooks/`: Jupyter notebooks with code for data preprocessing, model training, and evaluation.
+- `Ham or spam.ipynb`: Jupyter notebooks with code for data preprocessing, model training, and evaluation.
 - `README.md`: This file.
 
 ## Usage
 
-- To train and evaluate the models, follow the instructions provided in the Jupyter notebooks or Python scripts in the `notebooks/` and `src/` directories.
+- To train and evaluate the models, follow the instructions provided in the Jupyter notebooks or Python scripts in the `Ham or spam.ipynb`.
 
 ## Acknowledgments
 
