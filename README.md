@@ -46,7 +46,7 @@ Fig: Bert model results
 
 The project is organized as follows:
 
-- `data/`: Contains the dataset used for training and testing.
+- `spam.csv`: Contains the dataset used for training and testing.
 - `Ham or spam.ipynb`: Jupyter notebooks with code for data preprocessing, model training, and evaluation.
 - `README.md`: This file.
 
